@@ -1,0 +1,16 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+		00000000000000000000000000000001 /* PBXFileReference */ = {
+			isa = PBXFileReference;
+			name = PomodoroTimerApp.swift;
+			path = PomodoroTimer/PomodoroTimerApp.swift;
+		};
+	};
+	rootObject = 00000000000000000000000000000001;
+	rootObjectClassName = PBXProject;
+}
